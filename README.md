@@ -1,6 +1,12 @@
-#  Título principal
+#  Carpeta principal de introducción a la programación
 
 ----
 
-## Subtítulo 
+## Contenido
+
+Esta es una preuba de git 
+
+[link](https://github.com/JuanPa4433/intro-programacion)
+
+
 
